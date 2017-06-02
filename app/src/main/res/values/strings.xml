@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Vaygoo Taxi</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="srn_drawer_open">Open</string>
+    <string name="srn_drawer_close">Close</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="minus">Minus</string>
+    <string name="down_panel">Order</string>
+    <string name="plus">Plus</string>
+    <string name="gps">Gps</string>
+    <string name="intermediate">Intermediate points</string>
+    <string name="grant">GRANT</string>
+    <string name="show_perm">Need a permission</string>
+    <string name="denied_map">Access location grant denied</string>
+    <string name="denied_storage">Access storage grant denied</string>
+    <string name="denied_camera">Access camera grant denied</string>
+    <string name="denied_phone">Access phone grant denied</string>
+    <string name="isnt_granted">You should grant permission</string>
+    <string name="settings">Settings</string>
+    <string name="grant_permiss">Open permissions and grant permission</string>
+    <string name="order_taxi">Order a taxi</string>
+    <string name="more">More</string>
+    <string name="baby_chair">Baby chair</string>
+    <string name="minivan">Minivan</string>
+    <string name="final_price">Final price</string>
+    <string name="int_point">Intermediate point</string>
+    <string name="price">Price</string>
+    <string name="end_point">End point</string>
+    <string name="start_point">Start point</string>
+    <string name="add_comment">Add a comment</string>
+    <string name="type_of_car">Type of car</string>
+    <string name="type_of_trip">Type of trip</string>
+    <string name="standart_car">Standard car</string>
+    <string name="limousine">Limousine</string>
+    <string name="elite_car">Elite car</string>
+    <string name="standart_trip">Standart trip</string>
+    <string name="hourly_pay">Hourly pay</string>
+    <string name="taxi_day">Taxi for the day</string>
+
+    <string name="drawer_item_account">Account</string>
+
+    <string name="drawer_item_drive_mode">Driver Mode</string>
+    <string name="drawer_item_setting">Settings</string>
+    <string name="drawer_item_help">Help</string>
+    <string name="drawer_item_contact">Contact us</string>
+    <string name="drawer_item_driver">Become a driver</string>
+</resources>
